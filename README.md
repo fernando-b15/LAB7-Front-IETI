@@ -1,4 +1,4 @@
-# LAB-7-Front-IETI
+# LAB-7-Front-End
 
 ## Author
   * [Fernando Barrera Barrera](https://github.com/fernando-b15) :guitar:
