@@ -11,7 +11,7 @@
   
 ## Deploys  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lab3ieti.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lab7ieti.herokuapp.com/)
 
 ## Available Scripts
 
